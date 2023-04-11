@@ -1,4 +1,4 @@
-Try the application : https://weather-app-react-and-tailwind.vercel.app/
+Try the application : <a href="https://weather-app-react-and-tailwind.vercel.app/" target="_blank">https://weather-app-react-and-tailwind.vercel.app/</a>
 
 ![Screenshot](https://github.com/Mathias-Hadji/weather-app-react-and-tailwind/blob/master/weather%20app%20mockup.PNG)
 
