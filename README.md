@@ -1,3 +1,5 @@
+Try the application : https://weather-app-react-and-tailwind.vercel.app/
+
 ![Screenshot](https://github.com/Mathias-Hadji/weather-app-react-and-tailwind/blob/master/weather%20app%20mockup.PNG)
 
 ## Technos
