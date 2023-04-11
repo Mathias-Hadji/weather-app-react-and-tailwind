@@ -1,7 +1,19 @@
 ![Screenshot](https://github.com/Mathias-Hadji/weather-app-react-and-tailwind/blob/master/weather%20app%20mockup.PNG)
 
+## Technos
+
+- Design with Tailwind CSS
+- Frontend with React JS
+- State hook
+- Effect hook
+- Conditional rendering
+- Fetch data from weather API (https://openweathermap.org/)
+- React icons library
+- Loading spiner animation with Tailwind CSS
+
 Design credit : Víctor Alvarado
 https://www.figma.com/community/file/1104550438912155366
+
 
 # Getting Started with Create React App
 
