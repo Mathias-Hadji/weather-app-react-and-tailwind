@@ -18,9 +18,22 @@ module.exports = {
                         transform: "translate(0, 0)",
                     },
                 },
+
+                fadeDown: {
+                  "0%" : {
+                    opacity: "0",
+                    transform: "translate(0, -20px)"
+                  },
+                  "100%" : {
+                    opacity: "100",
+                    transform: "translate(0, 0)"
+                  }
+                }
             },
+            
             animation: {
                 shake: "shake 150ms 2 linear",
+                fadeDown: "fadeDown 500ms ease-in-out"
             },
         },
     },
