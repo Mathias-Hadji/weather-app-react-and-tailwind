@@ -1,5 +1,8 @@
 ![Screenshot](https://github.com/Mathias-Hadji/weather-app-react-and-tailwind/blob/master/weather%20app%20mockup.PNG)
 
+Design credit : Víctor Alvarado
+https://www.figma.com/community/file/1104550438912155366
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
