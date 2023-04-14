@@ -1,6 +1,6 @@
-Try application : <a href="https://weather-app-react-and-tailwind.vercel.app/" target="_blank">https://weather-app-react-and-tailwind.vercel.app/</a>
+Try application here : <a href="https://weather-app-react-and-tailwind.vercel.app/" target="_blank">https://weather-app-react-and-tailwind.vercel.app/</a>
 
-![Screenshot](https://github.com/Mathias-Hadji/weather-app-react-and-tailwind/blob/master/weather%20app%20mockup.PNG)
+![Screenshot](https://github.com/Mathias-Hadji/weather-app-react-and-tailwind/blob/master/weather%20app%20mockup.png)
 
 ## Technos
 
